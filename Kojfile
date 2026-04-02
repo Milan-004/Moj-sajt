@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>cepana drva Milan</title>
+</head>
+<body style="background:black;color:white;text-align:center;font-family:Arial;">
+
+  <h1 style="color:lime;"> Milan</h1>
+  <p></p>
+
+  <button onclick="alert('Pozovi: 061123456')">
+    Pozovi nas
+  </button>
+
+</body>
+</html>
